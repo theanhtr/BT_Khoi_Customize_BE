@@ -1,0 +1,30 @@
+version: "3.4"
+
+services:
+  be_container:
+    image: docker.io/library/be_images
+    depends_on:
+      - app_db
+    container_name: be_container
+    ports:
+      - 3001:80
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    environment:
+      - ConnectionStrings__DatabaseConnection=User ID=root;Server=app_db; Port=3307; Password=password; Database=misa.web202305_mf1666_ttanh;
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ASPNETCORE_ENVIRONMENT=Development
+      - NUGET_PACKAGES=/root/.nuget/fallbackpackages
+      - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+
+  app_db:
+    image: mysql:5.7
+    container_name: app_db
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+    ports:
+      - 3307:3306
+    restart: always

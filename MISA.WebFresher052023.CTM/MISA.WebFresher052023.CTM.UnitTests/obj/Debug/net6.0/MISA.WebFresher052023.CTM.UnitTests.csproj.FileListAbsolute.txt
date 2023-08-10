@@ -1,0 +1,12 @@
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\bin\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.deps.json
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\bin\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.dll
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\bin\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.pdb
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.csproj.AssemblyReference.cache
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.AssemblyInfoInputs.cache
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.AssemblyInfo.cs
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.dll
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\refint\MISA.WebFresher052023.CTM.UnitTests.dll
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\MISA.WebFresher052023.CTM.UnitTests.pdb
+C:\Users\thean\OneDrive\Desktop\misa\web202305\mf1666-ttanh\aspnetcore\MISA.WebFresher052023.CTM\MISA.WebFresher052023.CTM.UnitTests\obj\Debug\net6.0\ref\MISA.WebFresher052023.CTM.UnitTests.dll

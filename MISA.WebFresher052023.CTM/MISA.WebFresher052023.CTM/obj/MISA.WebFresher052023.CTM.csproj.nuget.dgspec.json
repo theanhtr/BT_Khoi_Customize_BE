@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\MISA.WebFresher052023.CTM.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\MISA.WebFresher052023.CTM.Application.csproj",
+        "projectName": "MISA.WebFresher052023.CTM.Application",
+        "projectPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\MISA.WebFresher052023.CTM.Application.csproj",
+        "packagesPath": "C:\\Users\\thean\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Domain\\MISA.WebFresher052023.CTM.Domain.csproj": {
+                "projectPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Domain\\MISA.WebFresher052023.CTM.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Domain\\MISA.WebFresher052023.CTM.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Domain\\MISA.WebFresher052023.CTM.Domain.csproj",
+        "projectName": "MISA.WebFresher052023.CTM.Domain",
+        "projectPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Domain\\MISA.WebFresher052023.CTM.Domain.csproj",
+        "packagesPath": "C:\\Users\\thean\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Infrastructure\\MISA.WebFresher052023.CTM.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Infrastructure\\MISA.WebFresher052023.CTM.Infrastructure.csproj",
+        "projectName": "MISA.WebFresher052023.CTM.Infrastructure",
+        "projectPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Infrastructure\\MISA.WebFresher052023.CTM.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\thean\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\MISA.WebFresher052023.CTM.Application.csproj": {
+                "projectPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\MISA.WebFresher052023.CTM.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.122, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.csproj",
+        "projectName": "MISA.WebFresher052023.CTM",
+        "projectPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.csproj",
+        "packagesPath": "C:\\Users\\thean\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\MISA.WebFresher052023.CTM.Application.csproj": {
+                "projectPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\MISA.WebFresher052023.CTM.Application.csproj"
+              },
+              "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Infrastructure\\MISA.WebFresher052023.CTM.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Infrastructure\\MISA.WebFresher052023.CTM.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.3, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.3, )"
+            },
+            "Hangfire.MySqlStorage": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

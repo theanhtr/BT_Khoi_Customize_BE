@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VV0sh0LslpZsFGZkceoaS7QfQ+LGL6OdVQ3ONn1RJ1wbl8zhF0OGaNiM4d2OwfmfHwxt1RQoigw1vqiAWPA9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thean\\OneDrive\\Desktop\\BAO_CAO_MISA\\backend2\\MISA.WebFresher052023.CTM\\MISA.WebFresher052023.CTM.Application\\MISA.WebFresher052023.CTM.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thean\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\thean\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\thean\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\thean\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\thean\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\thean\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\thean\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\thean\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

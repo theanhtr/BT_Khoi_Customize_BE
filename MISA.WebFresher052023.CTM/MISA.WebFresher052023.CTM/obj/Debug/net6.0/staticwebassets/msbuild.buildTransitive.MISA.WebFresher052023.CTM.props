@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MISA.WebFresher052023.CTM.props" />
+</Project>
